@@ -1,0 +1,20 @@
+5 weeks saturday, sunday DS & ALGO : 3 hours each day !
+
+week 1:
+	Array
+	Basic Recursion
+	Hashing
+	String
+week 2:
+	Searching & Sorting
+	Linked List
+week 3:
+	Stack
+	Queue
+week 4:
+	Binary Tree
+	Binary Search Tree
+	Heap
+week 5:
+	Graph
+	Miscellaneous
