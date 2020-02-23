@@ -9,7 +9,8 @@ while yes == 'y':
     if guess == random_number:
         print("You won")
         yes = input("Want to play again: y/n\n")
-        break
+        print(yes)
+        continue
     elif guess < random_number:
         print("too low")
     else:
